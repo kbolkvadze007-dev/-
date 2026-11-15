@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "name": "ანა ბერიძე",
+    "specialty": "კარდიოლოგია",
+    "title": "მედიცინის დოქტორი · კარდიოლოგი",
+    "experience": 14,
+    "rating": 4.9,
+    "reviews": 128,
+    "clinic": "MediCare ცენტრალური კლინიკა",
+    "location": "თბილისი, ვაკე",
+    "languages": [
+      "ქართული",
+      "ინგლისური"
+    ],
+    "availableDays": [
+      "ორშ",
+      "სამ",
+      "ხუთ",
+      "პარ"
+    ],
+    "nextAvailable": "დღეს, 16:30",
+    "fee": 90,
+    "image": "https://i.pravatar.cc/300?img=47",
+    "featured": true,
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "გიორგი მაისურაძე",
+    "specialty": "ნევროლოგია",
+    "title": "უფროსი ექიმი · ნევროლოგი",
+    "experience": 18,
+    "rating": 4.8,
+    "reviews": 96,
+    "clinic": "ნიუ ჰოსპიტალსი",
+    "location": "თბილისი, დიღომი",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "availableDays": [
+      "სამ",
+      "ოთხ",
+      "პარ",
+      "შაბ"
+    ],
+    "nextAvailable": "ხვალ, 11:00",
+    "fee": 110,
+    "image": "https://i.pravatar.cc/300?img=12",
+    "featured": true,
+    "verified": true
+  },
+  {
+    "id": 3,
+    "name": "მარიამ კაპანაძე",
+    "specialty": "პედიატრია",
+    "title": "პედიატრი · ბავშვთა ჯანმრთელობა",
+    "experience": 11,
+    "rating": 5.0,
+    "reviews": 154,
+    "clinic": "ევექსის კლინიკა",
+    "location": "თბილისი, საბურთალო",
+    "languages": [
+      "ქართული",
+      "ინგლისური"
+    ],
+    "availableDays": [
+      "ორშ",
+      "ოთხ",
+      "ხუთ",
+      "შაბ"
+    ],
+    "nextAvailable": "დღეს, 17:15",
+    "fee": 80,
+    "image": "https://i.pravatar.cc/300?img=44",
+    "featured": true,
+    "verified": true
+  },
+  {
+    "id": 4,
+    "name": "ნინო ქავთარაძე",
+    "specialty": "დერმატოლოგია",
+    "title": "დერმატოლოგი · ესთეტიკური მედიცინა",
+    "experience": 9,
+    "rating": 4.7,
+    "reviews": 83,
+    "clinic": "Aesthetic Med",
+    "location": "თბილისი, ვაკე",
+    "languages": [
+      "ქართული",
+      "ინგლისური",
+      "რუსული"
+    ],
+    "availableDays": [
+      "ორშ",
+      "სამ",
+      "ოთხ"
+    ],
+    "nextAvailable": "ორშაბათი, 10:30",
+    "fee": 100,
+    "image": "https://i.pravatar.cc/300?img=49",
+    "featured": false,
+    "verified": true
+  },
+  {
+    "id": 5,
+    "name": "დავით ლომიძე",
+    "specialty": "ორთოპედია",
+    "title": "ტრავმატოლოგ-ორთოპედი",
+    "experience": 21,
+    "rating": 4.9,
+    "reviews": 112,
+    "clinic": "კავკასიის მედიცინის ცენტრი",
+    "location": "თბილისი, საბურთალო",
+    "languages": [
+      "ქართული",
+      "რუსული"
+    ],
+    "availableDays": [
+      "სამ",
+      "ხუთ",
+      "პარ"
+    ],
+    "nextAvailable": "ხვალ, 14:00",
+    "fee": 120,
+    "image": "https://i.pravatar.cc/300?img=13",
+    "featured": false,
+    "verified": true
+  },
+  {
+    "id": 6,
+    "name": "თამარ ჯაფარიძე",
+    "specialty": "გინეკოლოგია",
+    "title": "მეან-გინეკოლოგი",
+    "experience": 16,
+    "rating": 4.8,
+    "reviews": 137,
+    "clinic": "MediCare ცენტრალური კლინიკა",
+    "location": "თბილისი, ვაკე",
+    "languages": [
+      "ქართული",
+      "ინგლისური"
+    ],
+    "availableDays": [
+      "ორშ",
+      "ოთხ",
+      "პარ",
+      "შაბ"
+    ],
+    "nextAvailable": "ოთხშაბათი, 12:30",
+    "fee": 95,
+    "image": "https://i.pravatar.cc/300?img=48",
+    "featured": false,
+    "verified": true
+  },
+  {
+    "id": 7,
+    "name": "ლევან აბაშიძე",
+    "specialty": "ოფთალმოლოგია",
+    "title": "ოფთალმოქირურგი",
+    "experience": 13,
+    "rating": 4.6,
+    "reviews": 72,
+    "clinic": "თვალის ეროვნული ცენტრი",
+    "location": "თბილისი, ჩუღურეთი",
+    "languages": [
+      "ქართული",
+      "ინგლისური"
+    ],
+    "availableDays": [
+      "ორშ",
+      "სამ",
+      "ხუთ"
+    ],
+    "nextAvailable": "პარასკევი, 09:30",
+    "fee": 85,
+    "image": "https://i.pravatar.cc/300?img=60",
+    "featured": false,
+    "verified": true
+  },
+  {
+    "id": 8,
+    "name": "სალომე ნადირაძე",
+    "specialty": "სტომატოლოგია",
+    "title": "თერაპევტი-სტომატოლოგი",
+    "experience": 8,
+    "rating": 4.9,
+    "reviews": 101,
+    "clinic": "Smile Studio",
+    "location": "თბილისი, ვაკე",
+    "languages": [
+      "ქართული",
+      "ინგლისური"
+    ],
+    "availableDays": [
+      "სამ",
+      "ოთხ",
+      "ხუთ",
+      "შაბ"
+    ],
+    "nextAvailable": "დღეს, 18:00",
+    "fee": 70,
+    "image": "https://i.pravatar.cc/300?img=45",
+    "featured": false,
+    "verified": true
+  },
+  {
+    "id": 9,
+    "name": "ირაკლი მელაძე",
+    "specialty": "კარდიოლოგია",
+    "title": "ინტერვენციული კარდიოლოგი",
+    "experience": 20,
+    "rating": 4.9,
+    "reviews": 143,
+    "clinic": "ჰელსიკორი",
+    "location": "თბილისი, საბურთალო",
+    "languages": [
+      "ქართული",
+      "ინგლისური",
+      "რუსული"
+    ],
+    "availableDays": [
+      "ორშ",
+      "ოთხ",
+      "პარ"
+    ],
+    "nextAvailable": "სამშაბათი, 15:00",
+    "fee": 130,
+    "image": "https://i.pravatar.cc/300?img=14",
+    "featured": false,
+    "verified": true
+  }
+]
